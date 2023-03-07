@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <div className={styles.description}>
-          it works!
+          it works! and here is update
         </div>
       </main>
     </>
